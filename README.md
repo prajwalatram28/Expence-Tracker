@@ -26,9 +26,9 @@ Create a dot env file in that put mongo url and password
 ![image](https://user-images.githubusercontent.com/90970004/219322498-c0911aa5-215e-4ea9-9b8f-81d2f5f962dc.png)
 
 <pre>
-Repo Owner
-Name - Vishal Singh
+Web Technology Project
+Name - Prajwal Atram,Vishal Singh,Sameer Meshram
 Branch - IT
-Email - vishal.singh20@vit.edu
+Email - prajwal.atram20@vit.edu
 College name - Vishwakarama institute of technology
 </pre>
